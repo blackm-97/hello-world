@@ -1,3 +1,5 @@
 # hello-world
 My First Program!
-Yep this is it
+
+# About me
+I have 2 cats
